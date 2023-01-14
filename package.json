@@ -1,6 +1,6 @@
 {
-  "name": "farhan-wordcounter",
-  "version": "2.0.0",
+  "name": "farhan-word-counter",
+  "version": "3.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
