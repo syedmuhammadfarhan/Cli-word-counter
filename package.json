@@ -1,0 +1,37 @@
+{
+  "name": "farhan-word-counter",
+  "version": "1.2.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "farhan-word-counter": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syedmuhammadfarhan/Cli-word-counter.git"
+  },
+  "keywords": [
+    "nodejs",
+    "CLI",
+    "word-counter"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syedmuhammadfarhan/Cli-word-counter/issues"
+  },
+  "homepage": "https://github.com/syedmuhammadfarhan/Cli-word-counter#readme",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "inquirer": "^9.1.4",
+    "node-banner": "^1.4.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^18.11.18"
+  }
+}
